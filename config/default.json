@@ -1,0 +1,10 @@
+{
+  "auth0": {
+    "domain": "awolf.auth0.com",
+    "clientID": "pkwhjAq7e3t5TVTVJK0XioH0PaeZz8P6",
+    "redirectUri": "https://04rl188l0v.codesandbox.io/callback",
+    "audience": "https://awolf.auth0.com/userinfo",
+    "responseType": "token id_token",
+    "scope": "openid"
+  }
+}
